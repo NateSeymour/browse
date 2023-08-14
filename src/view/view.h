@@ -1,0 +1,5 @@
+
+#ifndef FILE_EXPLORER_VIEW_H
+#define FILE_EXPLORER_VIEW_H
+
+#endif //FILE_EXPLORER_VIEW_H
